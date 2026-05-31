@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wX97HeFlbNI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khanl\\ProjectHydra\\Hydra.OperationsIntelligenceApi\\Hydra.OperationsIntelligenceApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khanl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\khanl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\khanl\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\khanl\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.0\\swashbuckle.aspnetcore.10.2.0.nupkg.sha512",
+    "C:\\Users\\khanl\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.0\\swashbuckle.aspnetcore.swagger.10.2.0.nupkg.sha512",
+    "C:\\Users\\khanl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.0\\swashbuckle.aspnetcore.swaggergen.10.2.0.nupkg.sha512",
+    "C:\\Users\\khanl\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.0\\swashbuckle.aspnetcore.swaggerui.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
